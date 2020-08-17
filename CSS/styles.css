@@ -1,6 +1,6 @@
 
   body {
-    background-color: #fefdca;
+    background-color: #222831;
   }
 
   hr {
@@ -11,8 +11,34 @@
     width: 10%;
     text-align: left;
     margin-left:220px;
+    
   }
 
 h2,h3{
 color:#68b0ab;
+}
+
+p{
+  color: #4f8a8b;
+}
+
+ul,td,form{
+  color: #eeeeee;
+}
+
+
+a:link{
+  color: #eeeeee;
+}
+
+a:hover{
+  color: #f2a365;
+}
+
+a:visited{
+  color: #3282b8;
+}
+
+.img-table{
+  padding-bottom:  50px;
 }
